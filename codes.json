@@ -1,0 +1,20 @@
+{
+    "dougishere": {
+        "rewardType": "Currency",
+        "rewardAmount": 300,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
+    },
+    "10klikes": {
+        "rewardType": "Currency",
+        "rewardAmount": 350,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
+    },
+    "15klikes": {
+        "rewardType": "Currency",
+        "rewardAmount": 400,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
+    }
+}
