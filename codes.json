@@ -16,5 +16,12 @@
         "rewardAmount": 400,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
-    }
+    },
+    "20klikes": {
+        "rewardType": "Currency",
+        "rewardAmount": 52023,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
+    },
+
 }
