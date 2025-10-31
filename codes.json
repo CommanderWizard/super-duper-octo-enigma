@@ -10,5 +10,11 @@
         "rewardAmount": 400,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
+    },
+    "boo": {
+        "rewardType": "Currency",
+        "rewardAmount": 800,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
     }
 }
