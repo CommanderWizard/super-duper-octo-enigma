@@ -5,6 +5,12 @@
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     },
+    "20klikes": {
+        "rewardType": "Currency",
+        "rewardAmount": 500,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
+    },
     "jellybellishere": {
         "rewardType": "Currency",
         "rewardAmount": 400,
