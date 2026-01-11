@@ -1,25 +1,13 @@
 {
-    "18klikes": {
-        "rewardType": "Currency",
-        "rewardAmount": 400,
-        "currencyType": "DollyBucks",
-        "expireTime": 999999999999
-    },
     "20klikes": {
         "rewardType": "Currency",
         "rewardAmount": 500,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     },
-    "jellybellishere": {
+    "25klikes": {
         "rewardType": "Currency",
-        "rewardAmount": 400,
-        "currencyType": "DollyBucks",
-        "expireTime": 999999999999
-    },
-    "boo": {
-        "rewardType": "Currency",
-        "rewardAmount": 800,
+        "rewardAmount": 500,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     }
