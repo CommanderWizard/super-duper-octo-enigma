@@ -10,5 +10,11 @@
         "rewardAmount": 500,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
+    },
+    "feedback": {
+        "rewardType": "Currency",
+        "rewardAmount": 100,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
     }
 }
