@@ -16,5 +16,11 @@
         "rewardAmount": 100,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
+    },
+    "10kmembers": {
+        "rewardType": "Currency",
+        "rewardAmount": 1000,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
     }
 }
