@@ -16,5 +16,17 @@
         "rewardAmount": 1000,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
-    }
+    },
+    "horseyear": [
+        {
+            "rewardType": "Currency",
+            "rewardAmount": 500,
+            "currencyType": "DollyBucks"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "LunarNewYear",
+            "currencyType": "Nametags"
+        }
+    ]
 }
