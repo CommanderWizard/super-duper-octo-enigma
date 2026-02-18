@@ -26,7 +26,7 @@
         {
             "rewardType": "Cosmetic",
             "rewardID": "LunarNewYear",
-            "currencyType": "Nametags"
+            "cosmeticType": "Nametags"
         }
     ]
 }
