@@ -28,5 +28,17 @@
             "rewardID": "LunarNewYear",
             "cosmeticType": "Nametags"
         }
+    ],
+    "ticketformeistro": [
+        {
+            "rewardType": "Currency",
+            "rewardAmount": 1500,
+            "currencyType": "DollyBucks"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "Ticket",
+            "cosmeticType": "Nametags"
+        }
     ]
 }
