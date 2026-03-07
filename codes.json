@@ -5,18 +5,6 @@
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     },
-    "30klikes": {
-        "rewardType": "Currency",
-        "rewardAmount": 500,
-        "currencyType": "DollyBucks",
-        "expireTime": 999999999999
-    },
-    "10kmembers": {
-        "rewardType": "Currency",
-        "rewardAmount": 1000,
-        "currencyType": "DollyBucks",
-        "expireTime": 999999999999
-    },
     "horseyear": [
         {
             "rewardType": "Currency",
