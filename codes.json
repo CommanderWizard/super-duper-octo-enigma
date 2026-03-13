@@ -17,16 +17,10 @@
             "cosmeticType": "Nametags"
         }
     ],
-    "ticketformeistro": [
-        {
-            "rewardType": "Currency",
-            "rewardAmount": 1500,
-            "currencyType": "DollyBucks"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "Ticket",
-            "cosmeticType": "Nametags"
-        }
-    ]
+    "20kmembers": {
+        "rewardType": "Currency",
+        "rewardAmount": 1000,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
+    }
 }
