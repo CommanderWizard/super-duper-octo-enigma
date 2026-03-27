@@ -5,6 +5,18 @@
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     },
+    "mixtape": [
+        {
+            "rewardType": "Currency",
+            "rewardAmount": 1000,
+            "currencyType": "DollyBucks"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "Headphones",
+            "cosmeticType": "Nametags"
+        }
+    ],
     "horseyear": [
         {
             "rewardType": "Currency",
