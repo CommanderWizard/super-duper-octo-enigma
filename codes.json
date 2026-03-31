@@ -29,9 +29,9 @@
             "cosmeticType": "Nametags"
         }
     ],
-    "20kmembers": {
+    "transrights": {
         "rewardType": "Currency",
-        "rewardAmount": 1000,
+        "rewardAmount": 500,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     }
