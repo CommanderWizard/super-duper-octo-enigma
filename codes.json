@@ -34,5 +34,11 @@
         "rewardAmount": 500,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
+    },
+    "wegoofed": {
+        "rewardType": "Currency",
+        "rewardAmount": 1125,
+        "currencyType": "DollyBucks",
+        "expireTime": 999999999999
     }
 }
