@@ -5,18 +5,6 @@
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     },
-    "mixtape": [
-        {
-            "rewardType": "Currency",
-            "rewardAmount": 1000,
-            "currencyType": "DollyBucks"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "Headphones",
-            "cosmeticType": "Nametags"
-        }
-    ],
     "horseyear": [
         {
             "rewardType": "Currency",
@@ -35,9 +23,9 @@
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     },
-    "wegoofed": {
+    "releases-may15": {
         "rewardType": "Currency",
-        "rewardAmount": 1125,
+        "rewardAmount": 1000,
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     }
