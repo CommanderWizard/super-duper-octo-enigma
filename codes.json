@@ -23,10 +23,51 @@
         "currencyType": "DollyBucks",
         "expireTime": 999999999999
     },
-    "releases-may15": {
-        "rewardType": "Currency",
-        "rewardAmount": 1000,
-        "currencyType": "DollyBucks",
-        "expireTime": 999999999999
-    }
+    "iamproud": [
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "AllyPride",
+            "cosmeticType": "Nametags"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "AsexualPride",
+            "cosmeticType": "Nametags"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "BisexualPride",
+            "cosmeticType": "Nametags"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "GayPride",
+            "cosmeticType": "Nametags"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "LesbianPride",
+            "cosmeticType": "Nametags"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "PansexualPride",
+            "cosmeticType": "Nametags"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "TransgenderPride",
+            "cosmeticType": "Nametags"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "IntersexPride",
+            "cosmeticType": "Nametags"
+        },
+        {
+            "rewardType": "Cosmetic",
+            "rewardID": "NonBinaryPride",
+            "cosmeticType": "Nametags"
+        }
+    ],
 }
