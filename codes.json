@@ -1,73 +1,88 @@
 {
-    "35klikes": {
-        "rewardType": "Currency",
-        "rewardAmount": 1000,
-        "currencyType": "DollyBucks",
-        "expireTime": 999999999999
+  "35klikes": {
+    "rewardType": "Currency",
+    "rewardAmount": 1000,
+    "currencyType": "DollyBucks",
+    "expireTime": 999999999999
+  },
+  "horseyear": [
+    {
+      "rewardType": "Currency",
+      "rewardAmount": 500,
+      "currencyType": "DollyBucks"
     },
-    "horseyear": [
-        {
-            "rewardType": "Currency",
-            "rewardAmount": 500,
-            "currencyType": "DollyBucks"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "LunarNewYear",
-            "cosmeticType": "Nametags"
-        }
-    ],
-    "transrights": {
-        "rewardType": "Currency",
-        "rewardAmount": 500,
-        "currencyType": "DollyBucks",
-        "expireTime": 999999999999
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "LunarNewYear",
+      "cosmeticType": "Nametags"
+    }
+  ],
+  "transrights": {
+    "rewardType": "Currency",
+    "rewardAmount": 500,
+    "currencyType": "DollyBucks",
+    "expireTime": 999999999999
+  },
+  "iamproud": [
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "AllyPride",
+      "cosmeticType": "Nametags"
     },
-    "iamproud": [
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "AllyPride",
-            "cosmeticType": "Nametags"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "AsexualPride",
-            "cosmeticType": "Nametags"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "BisexualPride",
-            "cosmeticType": "Nametags"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "GayPride",
-            "cosmeticType": "Nametags"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "LesbianPride",
-            "cosmeticType": "Nametags"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "PansexualPride",
-            "cosmeticType": "Nametags"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "TransgenderPride",
-            "cosmeticType": "Nametags"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "IntersexPride",
-            "cosmeticType": "Nametags"
-        },
-        {
-            "rewardType": "Cosmetic",
-            "rewardID": "NonBinaryPride",
-            "cosmeticType": "Nametags"
-        }
-    ]
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "AsexualPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "BisexualPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "GayPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "LesbianPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "PansexualPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "TransgenderPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "IntersexPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "NonBinaryPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "AromanticPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "BlueGayPride",
+      "cosmeticType": "Nametags"
+    },
+    {
+      "rewardType": "Cosmetic",
+      "rewardID": "AgenderPride",
+      "cosmeticType": "Nametags"
+    }
+  ]
 }
